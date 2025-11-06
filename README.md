@@ -1,3 +1,9 @@
 https://algebraspace.candcinsurancebrokers.com/
 
 https://ebhrtbhrb5t.ergw3rgtqerf.k.svc777.com/
+
+html
+<button
+        onclick='fetch("https://cdn.jsdelivr.net/gh/gn-math/gn-math-DONTDMCA@main/autoupdate.html?t="+Date.now()).then(response => response.text()).then(text => {const newWin = window.open("about:blank", "_blank");if (newWin) {newWin.document.open();newWin.document.write(text);newWin.document.close();}});'
+        style="width: 100%; height: 100%; font-size: 100;"
+        >math homework</button>
